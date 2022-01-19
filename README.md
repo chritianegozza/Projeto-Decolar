@@ -1,6 +1,21 @@
 # Projeto-Decolar  Digital Innovation One - Prática .NET
 ********************************************************************************************
+![image](https://user-images.githubusercontent.com/72118415/150065294-14ac7e9d-7daa-484a-8f8f-10bd08dc07d0.png)
 
+![image](https://user-images.githubusercontent.com/72118415/150065516-9543e89c-e2d0-4135-bacb-c173c4a277fa.png)
+
+
+![image](https://user-images.githubusercontent.com/72118415/150065598-7bea26c0-4daa-48c5-9c42-a91fba7e6ece.png)
+
+
+
+
+
+
+
+
+
+**********************************************************************************************
 👩🏻‍💻 Projeto Cadastro de Series 
 
 Projeto elaborado durante o bootcamp da DIO, do Decolar.
